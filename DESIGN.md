@@ -12,8 +12,6 @@ Shadow Mind 的核心设计目标是：
 
 纠错、事实核查和约束检查只是典型场景；Shadow 也可以探索替代路线、维护文档或承担其他长期职责。
 
-设计理由、候选方向和已拆出的非主线内容记录在 [DESIGN-Evolution.md](./DESIGN-Evolution.md)。
-
 ## 2. 核心结构
 
 ```text
